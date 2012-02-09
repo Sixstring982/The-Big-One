@@ -1,0 +1,5 @@
+c:\users\six\documents\visual studio 2010\Projects\The Big One\The Big One\bin\Debug\The Big One.exe
+c:\users\six\documents\visual studio 2010\Projects\The Big One\The Big One\bin\Debug\The Big One.pdb
+c:\users\six\documents\visual studio 2010\Projects\The Big One\The Big One\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\six\documents\visual studio 2010\Projects\The Big One\The Big One\obj\x86\Debug\The Big One.exe
+c:\users\six\documents\visual studio 2010\Projects\The Big One\The Big One\obj\x86\Debug\The Big One.pdb
