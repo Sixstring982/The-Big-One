@@ -8,3 +8,8 @@ C:\Users\tsmall\git\The-Big-One\The-Big-One\The Big One\obj\x86\Debug\The Big On
 C:\Users\tsmall\git\The-Big-One\The-Big-One\The Big One\bin\Debug\The Big One.exe
 C:\Users\tsmall\git\The-Big-One\The-Big-One\The Big One\bin\Debug\The Big One.pdb
 C:\Users\tsmall\git\The-Big-One\The-Big-One\The Big One\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Six\git\The-Big-One\The-Big-One\The Big One\obj\x86\Debug\The Big One.exe
+C:\Users\Six\git\The-Big-One\The-Big-One\The Big One\obj\x86\Debug\The Big One.pdb
+C:\Users\Six\git\The-Big-One\The-Big-One\The Big One\bin\Debug\The Big One.exe
+C:\Users\Six\git\The-Big-One\The-Big-One\The Big One\bin\Debug\The Big One.pdb
+C:\Users\Six\git\The-Big-One\The-Big-One\The Big One\obj\x86\Debug\ResolveAssemblyReference.cache

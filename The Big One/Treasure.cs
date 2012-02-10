@@ -18,6 +18,11 @@ namespace The_Big_One
             value = ObjectNames[objName].value;
         }
 
+        public override string ToString()
+        {
+            return name;
+        }
+
         class ObjectName
         {
             public int value;
@@ -36,26 +41,30 @@ namespace The_Big_One
         public static void LoadObjectNames()
         {
             ObjectNames = new List<ObjectName>();
-            ObjectNames.Add(new ObjectName("helmet", 20));
-            ObjectNames.Add(new ObjectName("mask", 50));
-            ObjectNames.Add(new ObjectName("idol", 200));
-            ObjectNames.Add(new ObjectName("statue", 500));
-            ObjectNames.Add(new ObjectName("amulet", 1000));
-            ObjectNames.Add(new ObjectName("bracelet", 1200));
-            ObjectNames.Add(new ObjectName("revolver", 2000));
-            ObjectNames.Add(new ObjectName("rifle", 2500));
-            ObjectNames.Add(new ObjectName("cape", 3000));
-            ObjectNames.Add(new ObjectName("emerald", 4000));
-            ObjectNames.Add(new ObjectName("amethyst", 6000));
-            ObjectNames.Add(new ObjectName("diamond", 10000));
-            ObjectNames.Add(new ObjectName("scepter", 15000));
-            ObjectNames.Add(new ObjectName("crown", 20000));
-            ObjectNames.Add(new ObjectName("throne", 30000));
+            ObjectNames.Add(new ObjectName("helmet", 10));
+            ObjectNames.Add(new ObjectName("mask", 20));
+            ObjectNames.Add(new ObjectName("idol", 35));
+            ObjectNames.Add(new ObjectName("statue", 50));
+            ObjectNames.Add(new ObjectName("amulet", 75));
+            ObjectNames.Add(new ObjectName("bracelet", 90));
+            ObjectNames.Add(new ObjectName("revolver", 130));
+            ObjectNames.Add(new ObjectName("rifle", 180));
+            ObjectNames.Add(new ObjectName("cape", 250));
+            ObjectNames.Add(new ObjectName("emerald", 300));
+            ObjectNames.Add(new ObjectName("amethyst", 400));
+            ObjectNames.Add(new ObjectName("diamond", 600));
+            ObjectNames.Add(new ObjectName("scepter", 1000));
+            ObjectNames.Add(new ObjectName("crown", 2000));
+            ObjectNames.Add(new ObjectName("throne", 5000));
 
             ObjectDescriptions = new List<string>();
             ObjectDescriptions.Add("destiny");
-            ObjectDescriptions.Add("glory");
+            ObjectDescriptions.Add("marijauna");
             ObjectDescriptions.Add("happiness");
+            ObjectDescriptions.Add("time");
+            ObjectDescriptions.Add("the heavens");
+            ObjectDescriptions.Add("Aslan");
+            ObjectDescriptions.Add("time");
             ObjectDescriptions.Add("destruction");
             ObjectDescriptions.Add("mordor");
             ObjectDescriptions.Add("elves");
@@ -65,6 +74,15 @@ namespace The_Big_One
             ObjectDescriptions.Add("power");
             ObjectDescriptions.Add("wonder");
             ObjectDescriptions.Add("blasphemy");
+            ObjectDescriptions.Add("ganja");
+            ObjectDescriptions.Add("Far-Mer");
+            ObjectDescriptions.Add("the dreaded Kyle");
+            ObjectDescriptions.Add("the Farmer");
+            ObjectDescriptions.Add("the Theif");
+            ObjectDescriptions.Add("the Knight");
+            ObjectDescriptions.Add("kings");
+            ObjectDescriptions.Add("queens");
+            ObjectDescriptions.Add("beer");
         }
     }
 }

@@ -9,13 +9,15 @@ namespace The_Big_One
     {
         enum TrapType
         {
-            Laser
+            Laser = 0,
+            Bars,
+            PressurePad
         }
 
         private TrapType type;
         public Trap()
         {
-            type = (TrapType)(Program.RNG().Next() % 1);
+            type = (TrapType)(Program.RNG().Next() % 3);
         }
     }
 }

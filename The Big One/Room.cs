@@ -15,15 +15,8 @@ namespace The_Big_One
 
         public Room()
         {
-            if ((Program.RNG().Next() % 10) > 2)
-                treasure = new Treasure();
-            else
-                treasure = null;
-
-            if ((Program.RNG().Next() % 10) > 2)
-                trap = new Trap();
-            else
-                treasure = null;
+            trap = null;
+            treasure = null;
         }
 
         public void MakeJanitor()
