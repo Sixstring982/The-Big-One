@@ -13,3 +13,8 @@ C:\Users\Six\git\The-Big-One\The-Big-One\The Big One\obj\x86\Debug\The Big One.p
 C:\Users\Six\git\The-Big-One\The-Big-One\The Big One\bin\Debug\The Big One.exe
 C:\Users\Six\git\The-Big-One\The-Big-One\The Big One\bin\Debug\The Big One.pdb
 C:\Users\Six\git\The-Big-One\The-Big-One\The Big One\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Six\Desktop\The-Big-One\The Big One\obj\x86\Debug\The Big One.exe
+C:\Users\Six\Desktop\The-Big-One\The Big One\obj\x86\Debug\The Big One.pdb
+C:\Users\Six\Desktop\The-Big-One\The Big One\bin\Debug\The Big One.exe
+C:\Users\Six\Desktop\The-Big-One\The Big One\bin\Debug\The Big One.pdb
+C:\Users\Six\Desktop\The-Big-One\The Big One\obj\x86\Debug\ResolveAssemblyReference.cache

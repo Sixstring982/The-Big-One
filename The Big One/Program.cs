@@ -198,12 +198,19 @@ namespace The_Big_One
                     }
                     break;
                 case "take":
-                    if (inputString[1].ToLower() == "treasure")
+                    if (inputString.Length < 2)
                     {
-                        if (currentMap.data[Location.X][Location.Y].treasure != null)
+                        Console.WriteLine("TAKE WHAT?");
+                    }
+                    else
+                    {
+                        if (inputString[1].ToLower() == "treasure")
                         {
-                            AddToInventory(currentMap.data[Location.X][Location.Y].treasure);
-                            currentMap.data[Location.X][Location.Y].treasure = null;
+                            if (currentMap.data[Location.X][Location.Y].treasure != null)
+                            {
+                                AddToInventory(currentMap.data[Location.X][Location.Y].treasure);
+                                currentMap.data[Location.X][Location.Y].treasure = null;
+                            }
                         }
                     }
                     break;
